@@ -6,5 +6,3 @@
 　　我的经济学研究水平很低，欢迎对我写的东西进行评论，或者提出建议。我的联系方式：  
 　　email: arthursswy0121@gmail.com  
 　　[github](https://github.com/ArthurSS): https://github.com/ArthurSS    
-### 这里不欢迎什么
-　　并没有  
