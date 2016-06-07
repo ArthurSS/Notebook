@@ -1,0 +1,14 @@
+*.egg-info/
+*.pyc
+*.pyo
+.DS_Store
+MANIFEST
+build/
+dist/
+*.doc
+*.docx
+*.pdf
+*.out
+*.log
+*.aux
+*.gz
